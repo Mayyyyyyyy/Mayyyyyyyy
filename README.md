@@ -1,7 +1,5 @@
 <p align="center">
   <h1 align="center">Hi 👋, I'm Mayyyyyyyy</h1>
-  <img width="140" src="https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=猪&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=2489358948,299422699&os=461227709,364151752&simid=2489358948,299422699&pn=244&rn=1&di=7249025186345779201&ln=1812&fr=&fmq=1693308865506_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=f0&objurl=https%3A%2F%2Fhbimg.b0.upaiyun.com%2Fb0425a5bd2f4e6535a3e1c0519a8a033053c5c3fa9da-fRE8ZQ_fw658&rpstart=0&rpnum=0&adpicid=0&nojc=undefined&dyTabStr=MTEsMCw2LDMsMSw0LDUsMiw4LDcsOQ%3D%3D“/>
-  <br/>
   <h3 align="center">A frontend developer from China</h3>
   <p align="center">🤟Pig wanna fly👊</p>
 </p>
