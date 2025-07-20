@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 📫 How to reach me **1368302788@qq.com**
+- 📫 How to reach me **maysarbeit@163.com**
 
 <p align="left">
 </p>
